@@ -1,0 +1,18 @@
+# Ignore archivos y carpetas de entornos virtuales
+venv/
+
+
+# Archivos de compilación de Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+
+# Archivos de Poetry y Pip
+poetry.lock
+dist/
+build/
+*.egg-info/
+
