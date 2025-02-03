@@ -9,10 +9,3 @@ __pycache__/
 *.pyd
 *.pyo
 
-
-# Archivos de Poetry y Pip
-poetry.lock
-dist/
-build/
-*.egg-info/
-
